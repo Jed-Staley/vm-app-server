@@ -3,7 +3,7 @@ Vehicle Maintenance App that utilizes CRUD methods, ACL, Authentication, and SQL
 
 
 # Project Overview  
-#### Author: Evan Cheng & Wajiha Khan
+#### Author: Evan Cheng, Wajiha Khan & Jed Staley
 #### Version: 1.0.0
 ---
 
